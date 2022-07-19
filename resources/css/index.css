@@ -152,7 +152,7 @@ main {
 
 .banner-container::before {
   content: " ";
-  background-image: url("/resources/images/banner.png");
+  background-image: url("https://www.quever.news/u/fotografias/m/2021/12/23/f848x477-20712_78515_5050.jpg");
   background-size: cover;
   background-position: center;
   position: absolute;
